@@ -137,3 +137,8 @@ transform_rotate_right_15 = A.Compose([
 ```
 
 These augmentations rotate both the images and their corresponding bounding boxes.
+some visiiulation of the results
+!![Presentation Preview](ece03136-da33-455f-81d4-58f31737dbd2.png)
+!![Presentation Preview](7389710f-a8f2-4df7-b208-f5f48c3ff807.png)
+!![Presentation Preview](1328069f-6919-4897-b992-737d93bb4bb1.png)
+
