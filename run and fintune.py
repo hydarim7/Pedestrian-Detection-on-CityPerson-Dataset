@@ -42,3 +42,15 @@ plt.show()
     --iou-thres .5 \
     --task val \
     --save-json
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Data
+conf_thres = [0.3, 0.5, 0.3]
+iou_thres = [0.5, 0.5, 0.3]
+precision = [0.64, 0.69, 0.62]
+recall = [0.50, 0.46, 0.46]
+mAP = [0.57, 0.591, 0.59]
+
+
