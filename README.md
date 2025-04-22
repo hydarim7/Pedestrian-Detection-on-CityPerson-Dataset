@@ -6,7 +6,7 @@ This project focuses on building a robust pedestrian detection model using the C
 ## 📌 Project Overview
 
 - **Goal**: Improve detection accuracy on imbalanced pedestrian datasets.
-- **Dataset**: [CityPerson](https://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_CityPersons_A_Diverse_CVPR_2017_paper.html) (subset of Cityscapes).
+- **Dataset**: [CityPerson](https://www.cityscapes-dataset.com/) (subset of Cityscapes).
 - **Techniques**: Data augmentation, class weighting, oversampling, and downsampling.
 - **Models Used**: YOLOv5 (s/m/l/x), YOLOv8, YOLOv11, and MobileNetV2 with two types of classifier heads (FC and SVM).
 - **Results**: Significant improvements using YOLOv5-l and balanced training.
