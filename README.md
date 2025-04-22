@@ -119,7 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🔄 Image Augmentation Example (Albumentations)
 
 This project uses [Albumentations](https://albumentations.ai/) for powerful image and bounding box augmentation. Here are two key transformations:
-
+!![Presentation Preview](Presentation%201.jpg)
 ```python
 import cv2
 import albumentations as A
